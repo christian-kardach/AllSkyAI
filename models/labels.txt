@@ -1,0 +1,4 @@
+clear
+heavy_clouds
+light_clouds
+rain
